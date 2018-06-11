@@ -1,2 +1,3 @@
 # hello-world
-Very first Git Project
+
+Hello World, Alex here. I like to learn more about GitHub, thus this project
